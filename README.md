@@ -1,5 +1,3 @@
-
-
 # Cybersecurity Risk Assessment Framework for Small Businesses (SMEs)
 
 ## Executive Summary
